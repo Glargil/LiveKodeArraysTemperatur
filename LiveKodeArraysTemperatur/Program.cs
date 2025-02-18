@@ -9,7 +9,7 @@ namespace LiveKodeArraysTemperatur
             int[] dayTemperatur = new int [8] { 7, 4, 5, 5, 5, 4, 4, 4};
 
             int dayTemperaturTotal = 0;
-
+            //IM A NEW COMMENT
             double maxTemperatur = dayTemperatur[0];
 
             double minTemperatur = dayTemperatur[0];
